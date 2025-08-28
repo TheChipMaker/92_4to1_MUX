@@ -1,7 +1,8 @@
 # 4-to-1 Multiplexer (VHDL)
- 
+
 This project implements and tests a **4-to-1 multiplexer** in VHDL.  
 The design is verified using a self-checking **testbench** with exhaustive simulation.
+
 This project is **synthesizable** and suitable for **Synopsys tools**, and simulation is done using **ModelSim**.
 
 ## Project Structure
